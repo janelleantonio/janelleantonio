@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align="center">
   <img height="175" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGx0bGhlN3BxNjQ5YXBhbjEwdnY3N3lqdTdmZ3dmMGN4cWpmMmhnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 </div>
@@ -33,6 +32,7 @@
 <p align="left">🔭 I’m working as Associate Software Engineer<br><br>🌱 I'm now learning programming in-depth, **I spend my extra hours taking free courses and other coding content's in Youtube.**<br><br>💬  I graduated at Polytechnic University of the Philippines - Biñan Campus with a degree of Bachelor of Science in Information Technology.</p>
 
 ###
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -95,9 +95,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/janelleantonio/janelleantonio/output/snake.svg" alt="Snake animation" />
-
-###
