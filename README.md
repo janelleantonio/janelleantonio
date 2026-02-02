@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">🔭 I’m working as Associate Software Engineer<br><br>🌱 I'm now learning programming in-depth, **I spend my extra hours taking free courses and other coding content's in Youtube.**<br><br>💬  I graduated at Polytechnic University of the Philippines - Biñan Campus with a degree of Bachelor of Science in Information Technology.</p>
+<p align="left">🔭 I’m working as Associate Software Engineer<br><br>🌱 I'm now learning programming in-depth, **I spend my extra hours taking free courses and other coding content's in Youtube.**<br><br>💬  I graduated at Polytechnic University of the Philippines - Biñan Campus with a degree of Bachelor of Science in Information Technology.<br><br>📌 I provide graphic design services, including logo design and branding materials, along with project management support and virtual assistant services.</p>
 
 ###
 
